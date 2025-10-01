@@ -6,7 +6,7 @@ input_file = pathlib.Path("data/ioda_count.json")
 output_file = pathlib.Path("data/ioda_count.csv")
 
 with open(input_file, "r", encoding="utf-8") as f:
-    data = json.load(f)
+    data = (json.load(f))["data"]
 
 # Expecting a list of lists
 if not (isinstance(data, list) and all(isinstance(row, list) for row in data)):
