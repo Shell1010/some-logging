@@ -1,5 +1,6 @@
 name: Fetch AQW Data
-
+permissions: 
+  contents: write
 on:
   schedule:
     - cron: "0 0 * * *"   # run once a day at midnight UTC
@@ -32,6 +33,7 @@ jobs:
           python scripts/csv-convert.py
 
       - name: Commit and push if changed
+        
         run: |
           git config --global user.name "Shell1010"
           git config --global user.email "Shell1010@users.noreply.github.com"
