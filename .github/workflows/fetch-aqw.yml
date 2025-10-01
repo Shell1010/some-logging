@@ -37,7 +37,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           if [[ -n $(git status --porcelain) ]]; then
-            git add data/arcana_invoker.json data/arcana_invoker.csv
+            git add data/ioda_count.json data/ioda_count.csv
             git commit -m "Update AQW data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
             git push
           else
@@ -50,7 +50,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           if [[ -n $(git status --porcelain) ]]; then
-            git add data/arcana_invoker.json
+            git add data/ioda_count.json
             git commit -m "Update AQW data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
             git push
           else
