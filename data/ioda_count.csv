@@ -1,4 +1,4 @@
-b6523491e6b0eb78ba2176fcdf3d24c4af0817e1,540,Legion Revenant,Class,0 AC
+b6523491e6b0eb78ba2176fcdf3d24c4af0817e1,541,Legion Revenant,Class,0 AC
 20b4c1371656e74391840bf858ecfbc106d4e07d,455,Necrotic Sword of Doom (IoDA),Sword,0 AC
 c4ca1fe8cb924f7674c1303532868c6a441b25ba,436,Oblivion Blade of Nulgath Pet (Rare),Pet,7 AC [Member]
 2cffc5f769c3d019899afa86fc65e732bbdd96a2,435,Dark Holiday Collection Chest 2019,Pet,10000 AC
@@ -42,8 +42,8 @@ d1b9afc7940c758013e7f71a40df8e79407842ac,47,Nulgath 2021 Collection Chest,Pet,10
 c53a17dfa82cef18875314da9b8bd2ecb13165bc,45,DoomKnight Naval Commander,Armor,1100 AC
 c3a4fe30fc50b23e8857f0b4a51ea54da88ddc84,43,Arctic Dragonslayer Trophy,Helm,450 AC
 3298690ae5c0b1ba25a67f6cce071b2d3f9ca547,43,Blood Moon Chest 2017,Pet,10000 AC
-87471dea8b194035d31ad7c6d165f9a72a7dd633,43,Void Naval Commander,Armor,1100 AC
 8d5fee851bb4f821fab3b87affa26f9b49096ce0,43,ArchFiend's Collection Chest 2023,Pet,10000 AC
+87471dea8b194035d31ad7c6d165f9a72a7dd633,43,Void Naval Commander,Armor,1100 AC
 d70d145e5b21b96138d2a387ce2d33d7a3383e6b,42,Worshipper of Nulgath,Armor,0 AC
 cdddb74dd3240531346196bf37dc5980c866584b,42,Legacy of Nulgath,Armor,0 AC
 36fc38b5760b604f281d738575691e35a1b96ea0,42,Dragon of Time,Class,0 AC
@@ -68,8 +68,8 @@ b3fe8e2a8b59a9004221bf010409d3fdc5960a45,31,Legion Vampire,Armor,1000 AC
 737f69237439a673ce5ab4804a7397f9c18c7c4c,31,Twig's Frostval Collection 2021,Pet,10000 AC
 33d8464cbed891063bb334c1b79238e967c54612,30,Zombification,Armor,1313 AC
 618599cad9bece376e2c99769008a82457530eab,29,Void Commander's Collection,Pet,10000 AC
-9c773bdb2db2cf8cd89668e54f0fec724c31bc8d,29,Queen's Chaos Collection Chest,Pet,10000 AC
 f602d44bc20fb1e2f036c0535b101404b3220df5,29,Black Friday 2024 Collection Chest,Cape,10000 AC
+9c773bdb2db2cf8cd89668e54f0fec724c31bc8d,29,Queen's Chaos Collection Chest,Pet,10000 AC
 98e7d51fe4c8d79a8cc9875ecc902463b15a3673,29,Void of Nulgath (Rare),Armor,7 AC [Member]
 7c0bc791a49cf6c8aea88a0a393eb3f125b6c019,28,Love Caster,Armor,2000 AC
 2ea572adefae749377ea179df7884d2e1867529e,28,ArchFiend's Collection Chest 2022,Pet,10000 AC
@@ -122,8 +122,8 @@ fe2a668930302ddb1f3d8390b59aa516be5caea4,16,Spartan Warrior,Armor,1000 AC
 8c8808d1da61709af7ab64b1b6aa2367b0b1f1ab,16,Esoteric Anarchist,Armor,750 AC
 e383452c14ef8ba8f360ff1734ce8ec5486d0105,16,Prometheus,Armor,1500 AC
 a530677209767d3cb22ff89dc7611831b371d659,16,ClawSuit,Class,0 AC [Member]
-faea64aa608aa13b2b614a1c2977b5f446540e5f,15,Cursed Naval Commander,Armor,1100 AC
 cfb199a34c6496a44454f764a24b3d3319b36bd8,15,IceStorm Collection Chest Pet 2018,Pet,10000 AC
+faea64aa608aa13b2b614a1c2977b5f446540e5f,15,Cursed Naval Commander,Armor,1100 AC
 cce029d4defafc6b75996a34f69cabcff59f030d,15,Vestige of Nulgath,Helm,500 AC
 6efee7db8f35d830e7cb573c6fad65f40e758533,15,Star Sword,Sword,1000000 Gold
 66931aef7ccf3ebd98edbd5556d4553f1ee990db,15,Talons of Nulgath,Dagger,0 AC
@@ -138,8 +138,8 @@ b662c74b8c1e39397d42ae3d7a4ac0a33b93657a,15,Grimlord Blade of Nulgath,Sword,200 
 b2df272468596ec971bf570777e3fc50feeebbe9,14,Dual Betrayal Blade of Nulgath (Rare),Dagger,100 AC [Member]
 5f9585defa9f8c3fa69078a1ac31c2fdf16fa4ed,14,Soul Harvester Spear,Polearm,200 AC
 8beefd014263b69e993c79e7df72ff6ce0cd1c6c,14,Garth Maul,Armor,1100 AC
-a297f022a09f8faf0b076e430f453d9cfd371402,14,The Unholy of Vokun,Armor,100000 Gold
 829dd6e0c68a7c68665b6bae0dcf8013ac8bc8bf,14,ChronoLord Naval Commander,Armor,1100 AC
+a297f022a09f8faf0b076e430f453d9cfd371402,14,The Unholy of Vokun,Armor,100000 Gold
 53cb5f1aab59f8ee341a43990f779ea75f163f42,13,Tombstone Armor,Armor,600 AC
 74a20fa8cae2bacb4c6dfb26198370339422ef0a,13,Prismatic Paragon Plate,Armor,0 AC
 839f8bbb8041b27df4751063c93725b9350a2092,13,Blade of The Fallen,Sword,300 AC
@@ -164,8 +164,8 @@ fb5e0ec53f5b63382775a8eb5cb3f974553cdd79,12,Shadow Guard of Nulgath (Rare),Helm,
 ed2eb514d1258299409714dcfd9e80d428089eff,12,Dage The Good,Armor,750 AC
 44a03fe6bfcde8008e3413ab1667c07759e2cd48,12,Assassin of Shadows,Armor,800 AC
 81ae80da7bde06579eb81bed1b5e013ab0ea396d,12,Endless Winter Collection Chest,Pet,10000 AC
-6f4d3f230596a921b6c9a12961dec4b1a4dba946,11,Star Sword Breaker,Sword,1337 Gold [Member]
 62450045f964149ce914a1aefcbf80db1194be5f,11,The Rixty Ripper,Polearm,0 AC
+6f4d3f230596a921b6c9a12961dec4b1a4dba946,11,Star Sword Breaker,Sword,1337 Gold [Member]
 c7434088d2b658edaceb2606885444b0963ac24c,11,Naval Commander,Armor,1100 AC
 b104beb6f473ae2d180c68d27c38369049720098,11,Shadowspawn Crew Mask,Helm,0 AC
 4bf058ac8403c4b0cc7d6d8a5af4238c7fdeba2a,11,Dual Oblivion Blade of Nulgath,Dagger,0 AC
@@ -181,8 +181,8 @@ ced2d8e4d65132700ade0b79c370528490d6b6cf,10,Paragon Helm,Helm,125 AC
 72693f9a8445a1a84b6a8734e657723d6ce4f848,10,Duality of Nulgath,Armor,600 AC
 622e6571d685f7ed03a3f019ba202b2fadc4e6e9,10,Glacial Warlord,Class,0 AC
 72f6f495dcf17587645bba081f15f9b1f338eb8d,10,Spellbound Staff of Nulgath,Staff,300 AC
-c8f3b141694115657a3e87012543057621009d6a,10,Skull Cane,Staff,28000 Gold [Member]
 24bc95962cc58773372ec9ffe9190ecd534c1317,10,Love Caster,Class,0 AC
+c8f3b141694115657a3e87012543057621009d6a,10,Skull Cane,Staff,28000 Gold [Member]
 1ee3b5bb2606cdfb7d7a1f9ba0ca5a7c8886be82,10,Dage DeathKnight,Armor,800 AC
 5f4de1585151d457cdca1df3c0c19ad73101b5b2,10,Legacy of Nulgath Cape,Cape,0 AC
 5503c8d698877fa8da20bd3af5764412d0181359,10,Primal Dread Saw of Nulgath (Rare),Sword,3000 AC
@@ -199,9 +199,9 @@ e4b0f4815f3025ebbcbbcfcc06a4724717acc975,9,Voltaire Hat,Helm,10000 Gold [Member]
 e9191416d8d684cefffb200a27fdd1b4979ed67c,9,Spiked Rebel,Armor,750 AC
 7ca91bbc0009be520f0ec14bea7056594c6f496b,9,Higure,Sword,0 AC
 94aa53cf57d865f2f2a9a4621c07c41cddb26705,9,Ruby Eternal Flame,Cape,2712 Gold [Member]
+a7491264c3b976b1a2a41e637fd3cac670354986,9,Coin of Nulgath: 2500 (EXTRA Rare),Pet,2500 AC
 624a4baef8a5b4b8b3c8f69553e9eca9053d50e4,9,Legion BladeMaster Assassin,Class,0 AC
 e041c12f0b13a6f7716edeceecd2323c727c68a6,9,Rotting Naval Commander,Armor,1100 AC
-a7491264c3b976b1a2a41e637fd3cac670354986,9,Coin of Nulgath: 2500 (EXTRA Rare),Pet,2500 AC
 37dcc00f4230a4c46fa0e450895ee42016c94a38,9,One Eyed Warrior,Armor,1200 AC
 f75ac0a51724821759731d26131dbbe317fb1633,9,Fiend Face of Nulgath (Rare),Helm,300 AC
 bddd454776c9d7bb1ee3bb60636b5bb5bfecc402,9,Armored Baby Frost Dragon 08,Pet,1 Gold [Member]
@@ -235,22 +235,22 @@ d01278998650b6d83b34d377d68ebf1ad019ecf1,7,Werepyre Slayer,Armor,100 Gold [Membe
 3fc0a27a368c3a9e01ac2555746a033bd08131c9,7,Worshipper Visage of Nulgath,Helm,0 AC
 77d6253f9a88a4eabad6f0fc6934d4f7afb98421,6,Balrog Blade,Sword,80000 Gold
 5305c7429a7b696d259231bbe856b1bb835bc6d7,6,Cheer Bringer,Armor,600 AC
-0752e2bb5806ae2364b28793fca75de8f7ef919d,6,Living BladeMaster,Armor,0 AC
 4a5da86d4c598fd258dab274e474cf42b5f7bb88,6,Sorcerer's Apprentice Hat,Helm,0 Gold
+0752e2bb5806ae2364b28793fca75de8f7ef919d,6,Living BladeMaster,Armor,0 AC
 878c25768848f62f65c8e7dcb0e3655a2f6a02b3,6,LightCaster,Class,0 AC
 52596a0bca85d7b481a9694e30dfc766bfcebca4,6,Hex Mask of Nulgath (Rare),Helm,300 AC
 3415da5cf9e9cf3dd82bb86978c47541009b2b21,6,WarpForce Black Beamsword,Sword,750 AC
 45cc7e200428d42a59d351d645adca61ec53a61e,6,Golden Warrior,Armor,3500 Gold [Member]
 e5d11808d56dbb45a2f2405336bdb49444811648,6,Vampire of Nulgath,Armor,0 AC
+3da2cc0c9568832633ae512dbd00b60e89c3a2fc,6,Altar Of Caladbolg,Floor Item,5000 AC
 1732f8f58a54fcc7c045ef3b1c081db06b3049d5,6,Soaring Wings of Dage,Cape,150 AC
 6afb208e2f7b1e1cad5c82a9fb8dd3042fa5eabf,6,Steampunk Dragon,Pet,0 AC
-3da2cc0c9568832633ae512dbd00b60e89c3a2fc,6,Altar Of Caladbolg,Floor Item,5000 AC
 41d35e467dd5f5bb3ac6da8dabfa1f5e1ff9ce83,6,Guise of Nulgath,Helm,200 AC
 aee52c617ade2b131da0af6918eea20f9a6350f1,6,Shadow Ripper,Class,0 AC
 b5154f7873d7cef9adc6313e9d1082cfdee00b48,6,Valkyric Glory Armor,Armor,45000 Gold [Member]
 ec378a113b8cc403d43df579ce3da9379d8adf80,6,Nightmare Plate,Armor,1500 AC
-28da8b6468d4a93cf43ea64c12ee17fa3614fc67,6,LEDragonblade +5,Sword,500 AC
 590d299752a1b3bb2a726eee4121f2541946bd25,6,Mystical Warrior,Armor,55000 Gold [Member]
+28da8b6468d4a93cf43ea64c12ee17fa3614fc67,6,LEDragonblade +5,Sword,500 AC
 a3b83d54dd24e64466dd798be2ff303bea81caea,6,Blood Guard of Nulgath (Rare),Helm,300 AC
 8850046902081dfc890900ba8a47a1109b27d21a,6,The Blade of Apparition,Sword,600 AC
 7ed9199a1213e7b7085713aab3101b746eaef9ac,6,Crystallis Heart of Kotaro,Armor,100000 Gold
@@ -260,25 +260,26 @@ a3b83d54dd24e64466dd798be2ff303bea81caea,6,Blood Guard of Nulgath (Rare),Helm,30
 52d31227cb81e22ce388fcf561bb565319acfaad,6,Colorful Claws Suit,Armor,1 Gold [Member]
 e36d022deea2900c232a8c41316c32b9e3ce8744,6,Icy Eternal Flame,Cape,111916 Gold [Member]
 51f1a9b03a0a7fb3ab78fb908578fab4ca3c1515,6,Chest of Nightmares,Pet,5000 AC
-97bb944066e07fdc30e0751f5243d66e507a8b04,6,Hobo Highlord,Class,0 AC
 9c03cd081088918b6a33bb5b500fce3638123dca,6,The Plague Scythe,Polearm,900 AC
+97bb944066e07fdc30e0751f5243d66e507a8b04,6,Hobo Highlord,Class,0 AC
 9ab64915c4c8ed73ee76897372bf433b3778b2e4,6,Astral Orb Pet,Pet,1500 AC
 c3957dbbe2b66150a32e93a8563e738d49a9d531,5,Classic Barber,Class,0 AC
 c3e7fc3c2f869c37efc8365935c8c2155cec4ffd,5,Eternal Flame of DOOM,Cape,2500 AC
 22f32c3e7ce87284c6351e93b7dec732863baa92,5,Void of Nulgath,Armor,7 Gold [Member]
-92ac76d808092fd68325afa8825baeff24a7d117,5,Wretched Ghoul,Armor,850 AC
 2dd4077649a94a048d3ddd8c14f0ac4fc3190117,5,Shadowed Dark Gunner,Armor,2000 AC
+92ac76d808092fd68325afa8825baeff24a7d117,5,Wretched Ghoul,Armor,850 AC
 13a14f96ca9b8e79c1fd5bd148da85c970b19b2a,5,Mortality of Revontheus,Armor,600 AC
 76c786e5421de0fdcee69263b5aa4193f7723601,5,Deadman's Long Locks,Helm,100 AC
 1bfff1d877ffad77ed8f8519ddabf29fb450a598,5,Glacial Destroyer Halo,Helm,65 AC
-fa3c1e034c80189f873770415a1bf09a5a52cbdc,5,Claws' Hood 08,Helm,0 Gold [Member]
-196126111586a0f3f7dbdea0516ffda550dc4366,5,Key Of Revontheus,Sword,185 AC
 47a208e1dfef63a24f2315b64894eb9ff831f8c3,5,Mystic Pencil of Endless Scribbles,Staff,10 Gold
+196126111586a0f3f7dbdea0516ffda550dc4366,5,Key Of Revontheus,Sword,185 AC
+fa3c1e034c80189f873770415a1bf09a5a52cbdc,5,Claws' Hood 08,Helm,0 Gold [Member]
 1afac09acd671a22386e2273161fce6416129177,5,Focus Staff of Nulgath,Staff,0 AC
 dfe0871062755098bb58609c2c5c97092a81fb38,5,Bright Hood of The Fallen,Helm,90 AC
 513d00332822c1f395d45554d6f5d726f50b2b1d,5,Ascended DarkCaster,Armor,800 AC
 ce45643aa561886183369ff9f7efd477e49f5b85,5,Dark Heart Manly Locks,Helm,20000 Gold [Member]
 e3f47ab3bc25ff8aae85e4b1c5bcbafdea606203,5,DoomKnightgown,Armor,0 Gold
+cf532403d527981e32429230264cb254614b800f,5,Choco-Bunny,Pet,0 AC
 2c49cb73d70fde7b4e937bc2083a50484d474a34,5,Prismatic Elf,Armor,0 AC
 d906fe00c83855fb6946e63d4afdde73dedf37ec,5,Dual Soul Harvester Spear,Dagger,0 AC
 1131fa29cd0deb68630cde69b26ea9d7c7b5e387,5,Legion Vampire Helm,Helm,100 AC
@@ -287,11 +288,10 @@ d906fe00c83855fb6946e63d4afdde73dedf37ec,5,Dual Soul Harvester Spear,Dagger,0 AC
 77b9218a0f42d898fce3532ea3d47dfceed38881,5,Mystic Witch Caster,Armor,500 AC
 47bf4e3b4f2aa6bcdd1fbf5f3c9755dc7058030e,5,Obsidian Legion Vampire,Armor,1000 AC
 c97b9789b827b1012fe1b7c92af6d325c42b650d,5,Light Empress's Hair,Helm,12000 Gold
-cf532403d527981e32429230264cb254614b800f,5,Choco-Bunny,Pet,0 AC
 39e3f1cc4969afa33bd40d47ca12a655be36b1e6,5,A Hunter on the Rise,Armor,625 AC
 c947bbed96d784868b20de020d35048f5a26ba6f,5,ULTRA DeadM4UG Bank Pet,Pet,5000 AC
-51f0bb1f0b4986d37ac4e5ebff05b5e425b5c6de,5,Cole,Pet,0 AC
 3577ada1f984fa8b4990809b5ffa30fefe9994de,5,Proper Victorian Garb,Armor,600 AC
+51f0bb1f0b4986d37ac4e5ebff05b5e425b5c6de,5,Cole,Pet,0 AC
 dd12877bd816427a58cce928d9afec9f2956b4dd,5,Crushed Top Hat,Helm,1000 Gold [Member]
 7c6c9e5dea661dfee6a9cda9f19b81f51b080938,5,Magelord,Armor,1200 AC
 a5d97f4491e4e023f5a2e044186c801426a670ed,5,Golden Phoenix Sword,Sword,2500 Gold [Member]
