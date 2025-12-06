@@ -29,7 +29,7 @@ jobs:
           pip install beautifulsoup4 requests
 
       - name: Run Frostval scraper
-        run: python test.py
+        run: python scripts/test.py
 
       - name: Commit and push changes
         run: |
