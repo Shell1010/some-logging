@@ -52,7 +52,7 @@ total_chars = re.search(r"Number of chars Received a Gift:\s*([\d,]+)", text)
 with open("./data/frostval_totals.json", "w") as f:
     f.truncate(0)
     json.dump({
-        "total_acs": total_acs,
-        "total_chars": total_chars
+        "total_acs": total_acs.group(1).replace(",", "") if total_acs else "0",
+        "total_chars": total_chars.group(1).replace(",", "") if total_chars else "0"
     }, f, indent=4)
 
