@@ -29,12 +29,11 @@ for row in table_rows:
         username = a_tag.next_sibling.strip()
 
     ac_text = cols[1].get_text(strip=True)
-    ac_number = int(re.sub(r"[+,]", "", ac_text))
 
     users.append({
         "position": position,
         "username": username,
-        "AC_count": ac_number
+        "AC_count": ac_text
     })
     position += 1
 
