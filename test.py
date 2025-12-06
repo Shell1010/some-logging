@@ -38,5 +38,6 @@ for row in table_rows:
     })
     position += 1
 
-with open("./data/frostval.json", "a+") as f:
+with open("./data/frostval.json", "w") as f:
+    f.truncate(0)
     json.dump(users, f, indent=4)
