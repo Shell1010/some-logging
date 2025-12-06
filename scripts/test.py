@@ -32,7 +32,7 @@ for row in table_rows:
 
     users.append({
         "position": position,
-        "username": f"[{username}](https://account.aq.com/CharPage?id={username.replace(' ', '_')})",
+        "username": f"[{username}](https://account.aq.com/CharPage?id={username.replace(' ', '+')})",
         "AC_count": ac_text
     })
     position += 1
