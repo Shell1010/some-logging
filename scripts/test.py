@@ -39,7 +39,7 @@ for row in table_rows:
 
 
 
-with open("./data/frostval.json", "w") as f:
+with open("./data/frostval.json", "a+") as f:
     f.truncate(0)
     json.dump(users, f, indent=4)
 
@@ -49,7 +49,7 @@ text = soup.get_text(" ", strip=True)
 total_acs = re.search(r"Total ACs Gifted this Season:\s*([\d,]+)", text)
 total_chars = re.search(r"Number of chars Received a Gift:\s*([\d,]+)", text)
 
-with open("./data/frostval_totals.json", "w") as f:
+with open("./data/frostval_totals.json", "a+") as f:
     f.truncate(0)
     json.dump({
         "total_acs": total_acs.group(1).replace(",", "") if total_acs else "0",
