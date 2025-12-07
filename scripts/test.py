@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 url = "https://account.aq.com/Event/Frostval"
-history = "acs_history.json"
-output = "acs_history.png"
+history = "./data/acs_history.json"
+output = "./data/acs_history.png"
 webhook_url = "https://canary.discord.com/api/webhooks/1372012402534518874/xN9Gl0NkjPpG_eykWWaEkM7zNvIEFOZ4_Hl2sWD-UCf2Ycsm5qdDG08qq5OzjD0rvViT"
 headers = {
     "cookie": "__cflb=0H28vnxFdh6KtiojTf63QjxSL2uBCoLzh55W7zazvEH",
@@ -129,5 +129,43 @@ def send_plot_to_webhook(webhook_url: str, output_file: str):
 
         response = requests.post(webhook_url, data=data, files=files)
         response.raise_for_status()  # throw if it fails
+
+import requests
+import json
+
+def edit_webhook_message(webhook_url: str, message_id: str, output_file: str):
+    url = f"{webhook_url}/messages/{message_id}"
+
+    with open(output_file, "rb") as f:
+        files = {
+            "file": (output_file, f, "image/png")
+        }
+
+        payload = {
+            "attachments": [
+                {
+                    "id": 0,
+                    "filename": output_file
+                }
+            ],
+            "embeds": [
+                {
+                    "title": "Frostval ACs Gifted Over Time",
+                    "image": {"url": f"attachment://{output_file}"}
+                }
+            ]
+        }
+
+        response = requests.patch(
+            url,
+            data={"payload_json": json.dumps(payload)},
+            files=files
+        )
+
+        response.raise_for_status()
+
+
+edit_webhook_message(webhook_url, "1447016648140652665", "acs_history.png")
+
 
 send_plot_to_webhook(webhook_url, output)
