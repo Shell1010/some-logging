@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install beautifulsoup4 requests
+          pip install beautifulsoup4 requests matplotlib
 
       - name: Run Frostval scraper
         run: python scripts/test.py
