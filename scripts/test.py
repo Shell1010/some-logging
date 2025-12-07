@@ -172,4 +172,4 @@ def edit_webhook_message(webhook_url: str, message_id: str, output_file: str):
 edit_webhook_message(webhook_url, "1447016648140652665", output)
 
 
-send_plot_to_webhook(webhook_url, output)
+# send_plot_to_webhook(webhook_url, output)
