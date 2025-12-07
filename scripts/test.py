@@ -130,8 +130,6 @@ def send_plot_to_webhook(webhook_url: str, output_file: str):
         response = requests.post(webhook_url, data=data, files=files)
         response.raise_for_status()  # throw if it fails
 
-import requests
-import json
 
 def edit_webhook_message(webhook_url: str, message_id: str, output_file: str):
     url = f"{webhook_url}/messages/{message_id}"
@@ -165,7 +163,7 @@ def edit_webhook_message(webhook_url: str, message_id: str, output_file: str):
         response.raise_for_status()
 
 
-edit_webhook_message(webhook_url, "1447016648140652665", "acs_history.png")
+edit_webhook_message(webhook_url, "1447016648140652665", output)
 
 
 send_plot_to_webhook(webhook_url, output)
