@@ -136,20 +136,25 @@ def edit_webhook_message(webhook_url: str, message_id: str, output_file: str):
 
     with open(output_file, "rb") as f:
         files = {
-            "file": (output_file, f, "image/png")
+            "files[0]": (output_file, f, "image/png")
         }
 
         payload = {
+            "content": None,
+            "embeds": [
+                {
+                    "title": "Frostval ACs Gifted Over Time",
+                    "image": {
+                        "url": f"attachment://{output_file}"
+                    }
+                }
+            ],
+
+
             "attachments": [
                 {
                     "id": 0,
                     "filename": output_file
-                }
-            ],
-            "embeds": [
-                {
-                    "title": "Frostval ACs Gifted Over Time",
-                    "image": {"url": f"attachment://{output_file}"}
                 }
             ]
         }
@@ -160,6 +165,7 @@ def edit_webhook_message(webhook_url: str, message_id: str, output_file: str):
             files=files
         )
 
+        print(response.text)
         response.raise_for_status()
 
 
