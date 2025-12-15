@@ -73,7 +73,7 @@ def update_char_totals(total_chars: int, total_acs: int):
 	else:
 		data = []
 	
-	last_char_count = data[-1]["total_chars"] if data else 0
+	last_char_count = data[-1].get("total_chars", 0)
 	current = total_chars - last_char_count
 	data.append({
 		"timestamp": datetime.utcnow().isoformat(),
