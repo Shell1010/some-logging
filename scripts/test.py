@@ -68,7 +68,7 @@ with open("./data/frostval_totals.json", "a+") as f:
 
 def update_char_totals(total_chars: int, total_acs: int):
 	if os.path.exists(path=other_history):
-		with open(history, "r") as f:
+		with open(other_history, "r") as f:
 			data = json.load(f)
 	else:
 		data = []
@@ -81,7 +81,7 @@ def update_char_totals(total_chars: int, total_acs: int):
 		"total_acs": total_acs,
 		"current_chars": current
 	})
-	with open(history, "w") as f:
+	with open(other_history, "w") as f:
 		json.dump(data, f, indent=2)
 		
 		
