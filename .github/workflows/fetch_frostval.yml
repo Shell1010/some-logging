@@ -37,7 +37,7 @@ jobs:
           git config --global user.name "Shell1010"
           git config --global user.email "Shell1010@users.noreply.github.com"
 
-          git add data/frostval.json data/frostval_totals.json data/acs_history.json data/acs_history.png
+          git add data/frostval.json data/frostval_totals.json data/acs_history.json data/acs_history.png data/counts_history.json data/counts_history.png data/acs_per_hour.png
 
           # Skip commit if nothing changed
           git diff --cached --quiet && echo "No changes, skipping commit." && exit 0
