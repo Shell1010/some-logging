@@ -72,8 +72,9 @@ def update_char_totals(total_chars: int, total_acs: int):
 			data = json.load(f)
 	else:
 		data = []
-	
-	last_char_count = data[-1].get("total_chars", 0)
+	last_char_count = 0
+	if len(data) > 0:
+		last_char_count = data[-1].get("total_chars", 0)
 	current = total_chars - last_char_count
 	data.append({
 		"timestamp": datetime.utcnow().isoformat(),
