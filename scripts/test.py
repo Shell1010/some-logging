@@ -266,6 +266,5 @@ def edit_webhook_message(webhook_url: str, message_id: str, output_file: str):
 
 edit_webhook_message(webhook_url, "1447016648140652665", output)
 
-
-send_plot_to_webhook(webhook_url, other_output)
-send_plot_to_webhook(webhook_url, "./data/acs_per_hour.png")
+edit_webhook_message(webhook_url, "1450018619324104805", other_output)
+edit_webhook_message(webhook_url, "1450018621886824548", "./data/acs_per_hour.png")
