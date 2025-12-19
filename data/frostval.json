@@ -1996,22 +1996,22 @@
     },
     {
         "position": 400,
-        "username": "[Saint Leo](https://account.aq.com/CharPage?id=Saint+Leo)",
+        "username": "[Vsm](https://account.aq.com/CharPage?id=Vsm)",
         "AC_count": "70,000+"
     },
     {
         "position": 401,
+        "username": "[Saint Leo](https://account.aq.com/CharPage?id=Saint+Leo)",
+        "AC_count": "70,000+"
+    },
+    {
+        "position": 402,
         "username": "[Proxy](https://account.aq.com/CharPage?id=Proxy)",
         "AC_count": "60,000+"
     },
     {
-        "position": 402,
-        "username": "[From Ash](https://account.aq.com/CharPage?id=From+Ash)",
-        "AC_count": "60,000+"
-    },
-    {
         "position": 403,
-        "username": "[Salazan](https://account.aq.com/CharPage?id=Salazan)",
+        "username": "[From Ash](https://account.aq.com/CharPage?id=From+Ash)",
         "AC_count": "60,000+"
     },
     {
@@ -2021,37 +2021,37 @@
     },
     {
         "position": 405,
-        "username": "[necario](https://account.aq.com/CharPage?id=necario)",
+        "username": "[Salazan](https://account.aq.com/CharPage?id=Salazan)",
         "AC_count": "60,000+"
     },
     {
         "position": 406,
-        "username": "[Emperterror](https://account.aq.com/CharPage?id=Emperterror)",
+        "username": "[necario](https://account.aq.com/CharPage?id=necario)",
         "AC_count": "60,000+"
     },
     {
         "position": 407,
-        "username": "[adfda3](https://account.aq.com/CharPage?id=adfda3)",
-        "AC_count": "60,000+"
-    },
-    {
-        "position": 408,
         "username": "[Devil Flame](https://account.aq.com/CharPage?id=Devil+Flame)",
         "AC_count": "60,000+"
     },
     {
+        "position": 408,
+        "username": "[adfda3](https://account.aq.com/CharPage?id=adfda3)",
+        "AC_count": "60,000+"
+    },
+    {
         "position": 409,
-        "username": "[Zerowins](https://account.aq.com/CharPage?id=Zerowins)",
+        "username": "[Emperterror](https://account.aq.com/CharPage?id=Emperterror)",
         "AC_count": "60,000+"
     },
     {
         "position": 410,
-        "username": "[Dream](https://account.aq.com/CharPage?id=Dream)",
+        "username": "[Zerowins](https://account.aq.com/CharPage?id=Zerowins)",
         "AC_count": "60,000+"
     },
     {
         "position": 411,
-        "username": "[Scatterlux](https://account.aq.com/CharPage?id=Scatterlux)",
+        "username": "[Dream](https://account.aq.com/CharPage?id=Dream)",
         "AC_count": "60,000+"
     },
     {
@@ -2061,67 +2061,67 @@
     },
     {
         "position": 413,
-        "username": "[Doom Spectrum](https://account.aq.com/CharPage?id=Doom+Spectrum)",
+        "username": "[Scatterlux](https://account.aq.com/CharPage?id=Scatterlux)",
         "AC_count": "60,000+"
     },
     {
         "position": 414,
-        "username": "[Throkral](https://account.aq.com/CharPage?id=Throkral)",
+        "username": "[Doom Spectrum](https://account.aq.com/CharPage?id=Doom+Spectrum)",
         "AC_count": "60,000+"
     },
     {
         "position": 415,
-        "username": "[mogoraf](https://account.aq.com/CharPage?id=mogoraf)",
-        "AC_count": "60,000+"
-    },
-    {
-        "position": 416,
-        "username": "[marianaparise](https://account.aq.com/CharPage?id=marianaparise)",
-        "AC_count": "60,000+"
-    },
-    {
-        "position": 417,
-        "username": "[Enekin](https://account.aq.com/CharPage?id=Enekin)",
-        "AC_count": "60,000+"
-    },
-    {
-        "position": 418,
-        "username": "[Saitou The Reaper](https://account.aq.com/CharPage?id=Saitou+The+Reaper)",
-        "AC_count": "60,000+"
-    },
-    {
-        "position": 419,
-        "username": "[Oneandonly](https://account.aq.com/CharPage?id=Oneandonly)",
-        "AC_count": "60,000+"
-    },
-    {
-        "position": 420,
-        "username": "[Coffee_Bean](https://account.aq.com/CharPage?id=Coffee_Bean)",
-        "AC_count": "60,000+"
-    },
-    {
-        "position": 421,
-        "username": "[Quincy Dao](https://account.aq.com/CharPage?id=Quincy+Dao)",
-        "AC_count": "60,000+"
-    },
-    {
-        "position": 422,
         "username": "[tourcherer](https://account.aq.com/CharPage?id=tourcherer)",
         "AC_count": "60,000+"
     },
     {
+        "position": 416,
+        "username": "[mogoraf](https://account.aq.com/CharPage?id=mogoraf)",
+        "AC_count": "60,000+"
+    },
+    {
+        "position": 417,
+        "username": "[marianaparise](https://account.aq.com/CharPage?id=marianaparise)",
+        "AC_count": "60,000+"
+    },
+    {
+        "position": 418,
+        "username": "[Enekin](https://account.aq.com/CharPage?id=Enekin)",
+        "AC_count": "60,000+"
+    },
+    {
+        "position": 419,
+        "username": "[Throkral](https://account.aq.com/CharPage?id=Throkral)",
+        "AC_count": "60,000+"
+    },
+    {
+        "position": 420,
+        "username": "[Oneandonly](https://account.aq.com/CharPage?id=Oneandonly)",
+        "AC_count": "60,000+"
+    },
+    {
+        "position": 421,
+        "username": "[Coffee_Bean](https://account.aq.com/CharPage?id=Coffee_Bean)",
+        "AC_count": "60,000+"
+    },
+    {
+        "position": 422,
+        "username": "[Quincy Dao](https://account.aq.com/CharPage?id=Quincy+Dao)",
+        "AC_count": "60,000+"
+    },
+    {
         "position": 423,
-        "username": "[TaiDragner](https://account.aq.com/CharPage?id=TaiDragner)",
+        "username": "[Saitou The Reaper](https://account.aq.com/CharPage?id=Saitou+The+Reaper)",
         "AC_count": "60,000+"
     },
     {
         "position": 424,
-        "username": "[Scorch](https://account.aq.com/CharPage?id=Scorch)",
+        "username": "[TaiDragner](https://account.aq.com/CharPage?id=TaiDragner)",
         "AC_count": "60,000+"
     },
     {
         "position": 425,
-        "username": "[Vsm](https://account.aq.com/CharPage?id=Vsm)",
+        "username": "[Scorch](https://account.aq.com/CharPage?id=Scorch)",
         "AC_count": "60,000+"
     },
     {
@@ -4506,7 +4506,7 @@
     },
     {
         "position": 902,
-        "username": "[Kyonyu](https://account.aq.com/CharPage?id=Kyonyu)",
+        "username": "[FlameBot](https://account.aq.com/CharPage?id=FlameBot)",
         "AC_count": "13,000"
     },
     {
@@ -4526,23 +4526,23 @@
     },
     {
         "position": 906,
-        "username": "[Big Rig](https://account.aq.com/CharPage?id=Big+Rig)",
+        "username": "[Kyonyu](https://account.aq.com/CharPage?id=Kyonyu)",
         "AC_count": "13,000"
     },
     {
         "position": 907,
-        "username": "[Oswinn](https://account.aq.com/CharPage?id=Oswinn)",
+        "username": "[Big Rig](https://account.aq.com/CharPage?id=Big+Rig)",
         "AC_count": "13,000"
     },
     {
         "position": 908,
-        "username": "[Halomanbob](https://account.aq.com/CharPage?id=Halomanbob)",
+        "username": "[Oswinn](https://account.aq.com/CharPage?id=Oswinn)",
         "AC_count": "13,000"
     },
     {
         "position": 909,
-        "username": "[Vaalen_0](https://account.aq.com/CharPage?id=Vaalen_0)",
-        "AC_count": "12,750"
+        "username": "[Halomanbob](https://account.aq.com/CharPage?id=Halomanbob)",
+        "AC_count": "13,000"
     },
     {
         "position": 910,
@@ -4551,42 +4551,42 @@
     },
     {
         "position": 911,
-        "username": "[YonnaChun](https://account.aq.com/CharPage?id=YonnaChun)",
-        "AC_count": "12,500"
+        "username": "[Vaalen_0](https://account.aq.com/CharPage?id=Vaalen_0)",
+        "AC_count": "12,750"
     },
     {
         "position": 912,
-        "username": "[chanruk](https://account.aq.com/CharPage?id=chanruk)",
-        "AC_count": "12,500"
-    },
-    {
-        "position": 913,
-        "username": "[VFenring](https://account.aq.com/CharPage?id=VFenring)",
-        "AC_count": "12,500"
-    },
-    {
-        "position": 914,
         "username": "[codename j4](https://account.aq.com/CharPage?id=codename+j4)",
         "AC_count": "12,500"
     },
     {
+        "position": 913,
+        "username": "[chanruk](https://account.aq.com/CharPage?id=chanruk)",
+        "AC_count": "12,500"
+    },
+    {
+        "position": 914,
+        "username": "[VFenring](https://account.aq.com/CharPage?id=VFenring)",
+        "AC_count": "12,500"
+    },
+    {
         "position": 915,
-        "username": "[_LLENN_](https://account.aq.com/CharPage?id=_LLENN_)",
-        "AC_count": "12,250"
+        "username": "[YonnaChun](https://account.aq.com/CharPage?id=YonnaChun)",
+        "AC_count": "12,500"
     },
     {
         "position": 916,
-        "username": "[100EDGAR](https://account.aq.com/CharPage?id=100EDGAR)",
+        "username": "[PhazeOni](https://account.aq.com/CharPage?id=PhazeOni)",
         "AC_count": "12,250"
     },
     {
         "position": 917,
-        "username": "[Xiao Xianyu](https://account.aq.com/CharPage?id=Xiao+Xianyu)",
+        "username": "[Perspective](https://account.aq.com/CharPage?id=Perspective)",
         "AC_count": "12,250"
     },
     {
         "position": 918,
-        "username": "[Perspective](https://account.aq.com/CharPage?id=Perspective)",
+        "username": "[100EDGAR](https://account.aq.com/CharPage?id=100EDGAR)",
         "AC_count": "12,250"
     },
     {
@@ -4596,62 +4596,62 @@
     },
     {
         "position": 920,
-        "username": "[PhazeOni](https://account.aq.com/CharPage?id=PhazeOni)",
+        "username": "[_LLENN_](https://account.aq.com/CharPage?id=_LLENN_)",
         "AC_count": "12,250"
     },
     {
         "position": 921,
-        "username": "[Doom Overlord](https://account.aq.com/CharPage?id=Doom+Overlord)",
-        "AC_count": "12,000"
+        "username": "[Xiao Xianyu](https://account.aq.com/CharPage?id=Xiao+Xianyu)",
+        "AC_count": "12,250"
     },
     {
         "position": 922,
-        "username": "[Marienne](https://account.aq.com/CharPage?id=Marienne)",
+        "username": "[Rocusho](https://account.aq.com/CharPage?id=Rocusho)",
         "AC_count": "12,000"
     },
     {
         "position": 923,
-        "username": "[Chief787](https://account.aq.com/CharPage?id=Chief787)",
-        "AC_count": "12,000"
-    },
-    {
-        "position": 924,
-        "username": "[BakeZi](https://account.aq.com/CharPage?id=BakeZi)",
-        "AC_count": "12,000"
-    },
-    {
-        "position": 925,
-        "username": "[Lee Seo](https://account.aq.com/CharPage?id=Lee+Seo)",
-        "AC_count": "12,000"
-    },
-    {
-        "position": 926,
-        "username": "[VNS](https://account.aq.com/CharPage?id=VNS)",
-        "AC_count": "12,000"
-    },
-    {
-        "position": 927,
         "username": "[Enluminada](https://account.aq.com/CharPage?id=Enluminada)",
         "AC_count": "12,000"
     },
     {
-        "position": 928,
-        "username": "[MarcoxAB](https://account.aq.com/CharPage?id=MarcoxAB)",
-        "AC_count": "12,000"
-    },
-    {
-        "position": 929,
+        "position": 924,
         "username": "[aaiieehh](https://account.aq.com/CharPage?id=aaiieehh)",
         "AC_count": "12,000"
     },
     {
-        "position": 930,
+        "position": 925,
+        "username": "[BakeZi](https://account.aq.com/CharPage?id=BakeZi)",
+        "AC_count": "12,000"
+    },
+    {
+        "position": 926,
+        "username": "[Chief787](https://account.aq.com/CharPage?id=Chief787)",
+        "AC_count": "12,000"
+    },
+    {
+        "position": 927,
         "username": "[Malveous](https://account.aq.com/CharPage?id=Malveous)",
         "AC_count": "12,000"
     },
     {
+        "position": 928,
+        "username": "[Doom Overlord](https://account.aq.com/CharPage?id=Doom+Overlord)",
+        "AC_count": "12,000"
+    },
+    {
+        "position": 929,
+        "username": "[MarcoxAB](https://account.aq.com/CharPage?id=MarcoxAB)",
+        "AC_count": "12,000"
+    },
+    {
+        "position": 930,
+        "username": "[Lee Seo](https://account.aq.com/CharPage?id=Lee+Seo)",
+        "AC_count": "12,000"
+    },
+    {
         "position": 931,
-        "username": "[Rocusho](https://account.aq.com/CharPage?id=Rocusho)",
+        "username": "[Marienne](https://account.aq.com/CharPage?id=Marienne)",
         "AC_count": "12,000"
     },
     {
@@ -4661,7 +4661,7 @@
     },
     {
         "position": 933,
-        "username": "[FlameBot](https://account.aq.com/CharPage?id=FlameBot)",
+        "username": "[VNS](https://account.aq.com/CharPage?id=VNS)",
         "AC_count": "12,000"
     },
     {
