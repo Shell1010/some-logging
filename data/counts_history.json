@@ -2014,5 +2014,11 @@
     "total_chars": 39079,
     "total_acs": 90019000,
     "current_chars": 4
+  },
+  {
+    "timestamp": "2025-12-20T17:52:01.303151",
+    "total_chars": 39081,
+    "total_acs": 90024000,
+    "current_chars": 2
   }
 ]
