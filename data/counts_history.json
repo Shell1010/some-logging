@@ -3790,5 +3790,11 @@
     "total_chars": 41859,
     "total_acs": 102345000,
     "current_chars": 1
+  },
+  {
+    "timestamp": "2025-12-25T09:13:25.751113",
+    "total_chars": 41867,
+    "total_acs": 102362000,
+    "current_chars": 8
   }
 ]
