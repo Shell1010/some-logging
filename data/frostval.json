@@ -491,22 +491,22 @@
     },
     {
         "position": 99,
-        "username": "[Murder](https://account.aq.com/CharPage?id=Murder)",
-        "AC_count": "100,000+"
-    },
-    {
-        "position": 100,
         "username": "[JFZ](https://account.aq.com/CharPage?id=JFZ)",
         "AC_count": "100,000+"
     },
     {
+        "position": 100,
+        "username": "[Murder](https://account.aq.com/CharPage?id=Murder)",
+        "AC_count": "100,000+"
+    },
+    {
         "position": 101,
-        "username": "[Zytryrrian](https://account.aq.com/CharPage?id=Zytryrrian)",
+        "username": "[Aeternullum](https://account.aq.com/CharPage?id=Aeternullum)",
         "AC_count": "100,000+"
     },
     {
         "position": 102,
-        "username": "[Aeternullum](https://account.aq.com/CharPage?id=Aeternullum)",
+        "username": "[Zytryrrian](https://account.aq.com/CharPage?id=Zytryrrian)",
         "AC_count": "100,000+"
     },
     {
@@ -616,57 +616,57 @@
     },
     {
         "position": 124,
-        "username": "[JCD](https://account.aq.com/CharPage?id=JCD)",
-        "AC_count": "100,000+"
-    },
-    {
-        "position": 125,
         "username": "[Max Brando](https://account.aq.com/CharPage?id=Max+Brando)",
         "AC_count": "100,000+"
     },
     {
-        "position": 126,
-        "username": "[ZERO EX7](https://account.aq.com/CharPage?id=ZERO+EX7)",
-        "AC_count": "100,000+"
-    },
-    {
-        "position": 127,
-        "username": "[Sicarolov](https://account.aq.com/CharPage?id=Sicarolov)",
-        "AC_count": "100,000+"
-    },
-    {
-        "position": 128,
-        "username": "[Captin all blue](https://account.aq.com/CharPage?id=Captin+all+blue)",
-        "AC_count": "100,000+"
-    },
-    {
-        "position": 129,
-        "username": "[RNA](https://account.aq.com/CharPage?id=RNA)",
-        "AC_count": "100,000+"
-    },
-    {
-        "position": 130,
+        "position": 125,
         "username": "[Redact](https://account.aq.com/CharPage?id=Redact)",
         "AC_count": "100,000+"
     },
     {
-        "position": 131,
+        "position": 126,
+        "username": "[JCD](https://account.aq.com/CharPage?id=JCD)",
+        "AC_count": "100,000+"
+    },
+    {
+        "position": 127,
         "username": "[Battlerobo](https://account.aq.com/CharPage?id=Battlerobo)",
         "AC_count": "100,000+"
     },
     {
-        "position": 132,
-        "username": "[NACHT XERX](https://account.aq.com/CharPage?id=NACHT+XERX)",
+        "position": 128,
+        "username": "[RNA](https://account.aq.com/CharPage?id=RNA)",
         "AC_count": "100,000+"
     },
     {
-        "position": 133,
+        "position": 129,
+        "username": "[Captin all blue](https://account.aq.com/CharPage?id=Captin+all+blue)",
+        "AC_count": "100,000+"
+    },
+    {
+        "position": 130,
         "username": "[DivineWind](https://account.aq.com/CharPage?id=DivineWind)",
         "AC_count": "100,000+"
     },
     {
-        "position": 134,
+        "position": 131,
         "username": "[Primarch_Sanguinius](https://account.aq.com/CharPage?id=Primarch_Sanguinius)",
+        "AC_count": "100,000+"
+    },
+    {
+        "position": 132,
+        "username": "[Sicarolov](https://account.aq.com/CharPage?id=Sicarolov)",
+        "AC_count": "100,000+"
+    },
+    {
+        "position": 133,
+        "username": "[NACHT XERX](https://account.aq.com/CharPage?id=NACHT+XERX)",
+        "AC_count": "100,000+"
+    },
+    {
+        "position": 134,
+        "username": "[ZERO EX7](https://account.aq.com/CharPage?id=ZERO+EX7)",
         "AC_count": "100,000+"
     },
     {
