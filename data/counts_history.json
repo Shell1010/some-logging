@@ -5674,5 +5674,11 @@
     "total_chars": 47365,
     "total_acs": 116517000,
     "current_chars": 16
+  },
+  {
+    "timestamp": "2025-12-30T05:01:17.415852",
+    "total_chars": 47375,
+    "total_acs": 116524000,
+    "current_chars": 10
   }
 ]
