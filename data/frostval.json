@@ -576,32 +576,32 @@
     },
     {
         "position": 116,
-        "username": "[Felmyst](https://account.aq.com/CharPage?id=Felmyst)",
-        "AC_count": "100,000+"
-    },
-    {
-        "position": 117,
         "username": "[KennyYeti](https://account.aq.com/CharPage?id=KennyYeti)",
         "AC_count": "100,000+"
     },
     {
+        "position": 117,
+        "username": "[OK KJ](https://account.aq.com/CharPage?id=OK+KJ)",
+        "AC_count": "100,000+"
+    },
+    {
         "position": 118,
-        "username": "[Rabler](https://account.aq.com/CharPage?id=Rabler)",
+        "username": "[Felmyst](https://account.aq.com/CharPage?id=Felmyst)",
         "AC_count": "100,000+"
     },
     {
         "position": 119,
-        "username": "[Ghosting](https://account.aq.com/CharPage?id=Ghosting)",
+        "username": "[Rabler](https://account.aq.com/CharPage?id=Rabler)",
         "AC_count": "100,000+"
     },
     {
         "position": 120,
-        "username": "[FFX_Noctis](https://account.aq.com/CharPage?id=FFX_Noctis)",
+        "username": "[Obfuscation](https://account.aq.com/CharPage?id=Obfuscation)",
         "AC_count": "100,000+"
     },
     {
         "position": 121,
-        "username": "[Obfuscation](https://account.aq.com/CharPage?id=Obfuscation)",
+        "username": "[FFX_Noctis](https://account.aq.com/CharPage?id=FFX_Noctis)",
         "AC_count": "100,000+"
     },
     {
@@ -611,7 +611,7 @@
     },
     {
         "position": 123,
-        "username": "[OK KJ](https://account.aq.com/CharPage?id=OK+KJ)",
+        "username": "[Ghosting](https://account.aq.com/CharPage?id=Ghosting)",
         "AC_count": "100,000+"
     },
     {
@@ -3421,22 +3421,22 @@
     },
     {
         "position": 685,
-        "username": "[M C Q U E E N](https://account.aq.com/CharPage?id=M+C+Q+U+E+E+N)",
-        "AC_count": "40,000+"
-    },
-    {
-        "position": 686,
-        "username": "[NagyD](https://account.aq.com/CharPage?id=NagyD)",
-        "AC_count": "40,000+"
-    },
-    {
-        "position": 687,
         "username": "[rrhino](https://account.aq.com/CharPage?id=rrhino)",
         "AC_count": "40,000+"
     },
     {
-        "position": 688,
+        "position": 686,
         "username": "[Cxde](https://account.aq.com/CharPage?id=Cxde)",
+        "AC_count": "40,000+"
+    },
+    {
+        "position": 687,
+        "username": "[M C Q U E E N](https://account.aq.com/CharPage?id=M+C+Q+U+E+E+N)",
+        "AC_count": "40,000+"
+    },
+    {
+        "position": 688,
+        "username": "[NagyD](https://account.aq.com/CharPage?id=NagyD)",
         "AC_count": "40,000+"
     },
     {
