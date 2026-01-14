@@ -11104,5 +11104,11 @@
     "total_chars": 56244,
     "total_acs": 139927000,
     "current_chars": 7
+  },
+  {
+    "timestamp": "2026-01-14T11:58:03.436134",
+    "total_chars": 56244,
+    "total_acs": 139927000,
+    "current_chars": 0
   }
 ]
