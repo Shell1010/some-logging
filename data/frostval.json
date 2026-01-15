@@ -476,7 +476,7 @@
     },
     {
         "position": 96,
-        "username": "[Arasaka](https://account.aq.com/CharPage?id=Arasaka)",
+        "username": "[JCD](https://account.aq.com/CharPage?id=JCD)",
         "AC_count": "100,000+"
     },
     {
@@ -486,12 +486,12 @@
     },
     {
         "position": 98,
-        "username": "[bmb](https://account.aq.com/CharPage?id=bmb)",
+        "username": "[Arasaka](https://account.aq.com/CharPage?id=Arasaka)",
         "AC_count": "100,000+"
     },
     {
         "position": 99,
-        "username": "[Aasterinian](https://account.aq.com/CharPage?id=Aasterinian)",
+        "username": "[bmb](https://account.aq.com/CharPage?id=bmb)",
         "AC_count": "100,000+"
     },
     {
@@ -501,7 +501,7 @@
     },
     {
         "position": 101,
-        "username": "[JCD](https://account.aq.com/CharPage?id=JCD)",
+        "username": "[Aasterinian](https://account.aq.com/CharPage?id=Aasterinian)",
         "AC_count": "100,000+"
     },
     {
@@ -4921,7 +4921,7 @@
     },
     {
         "position": 985,
-        "username": "[Vinxin](https://account.aq.com/CharPage?id=Vinxin)",
+        "username": "[ZNK](https://account.aq.com/CharPage?id=ZNK)",
         "AC_count": "20,000+"
     },
     {
@@ -4936,57 +4936,57 @@
     },
     {
         "position": 988,
-        "username": "[ZNK](https://account.aq.com/CharPage?id=ZNK)",
-        "AC_count": "20,000+"
-    },
-    {
-        "position": 989,
-        "username": "[bwg](https://account.aq.com/CharPage?id=bwg)",
-        "AC_count": "20,000+"
-    },
-    {
-        "position": 990,
         "username": "[Fazar](https://account.aq.com/CharPage?id=Fazar)",
         "AC_count": "20,000+"
     },
     {
+        "position": 989,
+        "username": "[The Bulgarian Beast](https://account.aq.com/CharPage?id=The+Bulgarian+Beast)",
+        "AC_count": "20,000+"
+    },
+    {
+        "position": 990,
+        "username": "[bwg](https://account.aq.com/CharPage?id=bwg)",
+        "AC_count": "20,000+"
+    },
+    {
         "position": 991,
-        "username": "[Vwx](https://account.aq.com/CharPage?id=Vwx)",
+        "username": "[Vinxin](https://account.aq.com/CharPage?id=Vinxin)",
         "AC_count": "20,000+"
     },
     {
         "position": 992,
-        "username": "[Punisher69](https://account.aq.com/CharPage?id=Punisher69)",
-        "AC_count": "20,000+"
-    },
-    {
-        "position": 993,
-        "username": "[Feits](https://account.aq.com/CharPage?id=Feits)",
-        "AC_count": "20,000+"
-    },
-    {
-        "position": 994,
-        "username": "[Kryzx](https://account.aq.com/CharPage?id=Kryzx)",
-        "AC_count": "20,000+"
-    },
-    {
-        "position": 995,
-        "username": "[Sukai](https://account.aq.com/CharPage?id=Sukai)",
-        "AC_count": "20,000+"
-    },
-    {
-        "position": 996,
-        "username": "[Mike _](https://account.aq.com/CharPage?id=Mike+_)",
-        "AC_count": "20,000+"
-    },
-    {
-        "position": 997,
         "username": "[Nanau](https://account.aq.com/CharPage?id=Nanau)",
         "AC_count": "20,000+"
     },
     {
+        "position": 993,
+        "username": "[Kryzx](https://account.aq.com/CharPage?id=Kryzx)",
+        "AC_count": "20,000+"
+    },
+    {
+        "position": 994,
+        "username": "[Mike _](https://account.aq.com/CharPage?id=Mike+_)",
+        "AC_count": "20,000+"
+    },
+    {
+        "position": 995,
+        "username": "[Punisher69](https://account.aq.com/CharPage?id=Punisher69)",
+        "AC_count": "20,000+"
+    },
+    {
+        "position": 996,
+        "username": "[Vwx](https://account.aq.com/CharPage?id=Vwx)",
+        "AC_count": "20,000+"
+    },
+    {
+        "position": 997,
+        "username": "[Feits](https://account.aq.com/CharPage?id=Feits)",
+        "AC_count": "20,000+"
+    },
+    {
         "position": 998,
-        "username": "[Azaroth Thesergal](https://account.aq.com/CharPage?id=Azaroth+Thesergal)",
+        "username": "[Sukai](https://account.aq.com/CharPage?id=Sukai)",
         "AC_count": "20,000+"
     },
     {
@@ -4996,7 +4996,7 @@
     },
     {
         "position": 1000,
-        "username": "[bayevik](https://account.aq.com/CharPage?id=bayevik)",
+        "username": "[Azaroth Thesergal](https://account.aq.com/CharPage?id=Azaroth+Thesergal)",
         "AC_count": "20,000+"
     }
 ]
