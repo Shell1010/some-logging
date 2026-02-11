@@ -18286,5 +18286,11 @@
     "total_chars": 57856,
     "total_acs": 144786000,
     "current_chars": 0
+  },
+  {
+    "timestamp": "2026-02-11T16:42:30.926957",
+    "total_chars": 0,
+    "total_acs": 0,
+    "current_chars": -57856
   }
 ]
